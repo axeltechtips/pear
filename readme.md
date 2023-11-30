@@ -12,6 +12,7 @@ Add our Repo Link to Scarlet.
 Go to the Repo from Scarlet.
 Find a app to Install.
 Tap Install and let Scarlet do its magic!
-Disclaimer:
+
+# Disclaimer:
 
 Please note that cracked apps are not endorsed by Apple and may be illegal in some jurisdictions. Use at your own risk. 🏴‍☠️
