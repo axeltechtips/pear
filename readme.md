@@ -1,15 +1,17 @@
 # Welcome!
-What is Pear?
+Welcome to Pear, a curated repository of cracked apps for Scarlet, the sideloading app store for iOS devices. Here, you'll find a wide selection of popular apps and games, all fully functional and ready to install on your iPhone or iPad.
 
-Pear is a website filled with the latest and greatest iOS cracked apps.
+Features:
 
+A wide variety of cracked apps: From productivity tools to entertainment apps, we've got something for everyone.
+Regular updates: We're constantly adding new apps to our repo, so you're sure to find something new to try.
+Easy to install: Simply add our Repo link to Scarlet, and start installing!
+How to install:
 
-# How would I sideload a App?
-You can use AltStore, or my favorite: Scarlet.
+Add our Repo Link to Scarlet.
+Go to the Repo from Scarlet.
+Find a app to Install.
+Tap Install and let Scarlet do its magic!
+Disclaimer:
 
-# How do I use Scarlet, or AltStore?
-You can sideload AltStore, or Scarlet and install the IPA for your selected app. A repo for Scarlet is coming soon.
-
-
-# Where do these downloads come from?
-These downloads come from my home server & my VPS if I can not find the Creator's hosted download link.
+Please note that cracked apps are not endorsed by Apple and may be illegal in some jurisdictions. Use at your own risk. 🏴‍☠️
