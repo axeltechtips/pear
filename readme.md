@@ -12,6 +12,8 @@ Add our Repo Link to Scarlet.
 Go to the Repo from Scarlet.
 Find a app to Install.
 Tap Install and let Scarlet do its magic!
+# REPO URL:
+The repo URl is https://axeltechtips.github.io/pear/scarlet.json
 
 # Disclaimer:
 
