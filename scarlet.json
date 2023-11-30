@@ -1,52 +1,52 @@
 {
-    "META": {
-      "repoName": "Pear",
-      "repoIcon": "https://axeltechtips.github.io/pear/favicon.png"
+  "META": {
+    "repoName": "Pear",
+    "repoIcon": "https://axeltechtips.github.io/pear/favicon.png"
+  },
+  "Cracked/Tweaked": [
+    {
+      "name": "uYou+",
+      "version": "18.14.1-3.0",
+      "down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+      "category": "Cracked/Tweaked",
+      "description": "The better version of YouTube.",
+      "bundleID": "com.google.ios.youtube",
+      "appstore": "com.google.ios.youtube",
+      "enableBackup": true,
+      "contact": {
+        "github": "https://github.com/qnblackcat/uYouPlus"
+      }
     },
-
-    "Cracked/Tweaked": [
-      {
-        "name": "uYou+",
-        "version": "18.14.1-3.0",
-        "down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
-        "category": "Cracked/Tweaked",
-        "description": "The better version of YouTube.",
-        "bundleID": "com.google.ios.youtube",
-        "appstore": "com.google.ios.youtube",
-        "enableBackup": true,
-        "contact": {
-          "github": "https://github.com/qnblackcat/uYouPlus",
-        }
-      },
-      {
-        "name": "SpotC++",
-        "version": "18.14.1-3.0",
-        "down": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.3/SpotC++.v1.1.3_v8.6.42.ipa",
-        "category": "Cracked/Tweaked",
-        "description": "This includes (free) spotify premium and some other features!",
-        "bundleID": "com.spotify.client",
-        "appstore": "com.spotify.client",
-        "enableBackup": true,
-        "contact": {
-          "github": "https://github.com/SpotCompiled/SpotC-Plus-Plus",
-        }
-      },
-      {
-        "name": "Instagram Rocket",
-        "version": "301.1",
-        "icon": "https://pear.codelazy.org/instagram.png",
-        "down": "https://pear.codelazy.org/instagramrocket.ipa",
-        "category": "Cracked/Tweaked",
-        "bundleID": "com.burbn.instagram",
-        "appstore": "com.burbn.instagram"
-      },
-      {
-         "name": "Deezer++",
-        "version": "7.15.0",
-        "icon": "https://pear.codelazy.org/deezer.png",
-        "down": "https://pear.codelazy.org/deezerplusplus.ipa",
-        "category": "Cracked/Tweaked",
-        "bundleID": "com.deezer.Deezer",
-        "appstore": "com.deezer.Deezer"
-    
-  }
+    {
+      "name": "SpotC++",
+      "version": "18.14.1-3.0",
+      "down": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.3/SpotC++.v1.1.3_v8.6.42.ipa",
+      "category": "Cracked/Tweaked",
+      "description": "This includes (free) Spotify Premium and some other features!",
+      "bundleID": "com.spotify.client",
+      "appstore": "com.spotify.client",
+      "enableBackup": true,
+      "contact": {
+        "github": "https://github.com/SpotCompiled/SpotC-Plus-Plus"
+      }
+    },
+    {
+      "name": "Instagram Rocket",
+      "version": "301.1",
+      "icon": "https://pear.codelazy.org/instagram.png",
+      "down": "https://pear.codelazy.org/instagramrocket.ipa",
+      "category": "Cracked/Tweaked",
+      "bundleID": "com.burbn.instagram",
+      "appstore": "com.burbn.instagram"
+    },
+    {
+      "name": "Deezer++",
+      "version": "7.15.0",
+      "icon": "https://pear.codelazy.org/deezer.png",
+      "down": "https://pear.codelazy.org/deezerplusplus.ipa",
+      "category": "Cracked/Tweaked",
+      "bundleID": "com.deezer.Deezer",
+      "appstore": "com.deezer.Deezer"
+    }
+  ]
+}
