@@ -16,3 +16,6 @@ Tap Install and let Scarlet do its magic!
 # Disclaimer:
 
 Please note that cracked apps are not endorsed by Apple and may be illegal in some jurisdictions. Use at your own risk. 🏴‍☠️
+
+# Have any requests?
+Make a pull request! Please add the name of the app and a IPA file if you can find one.
