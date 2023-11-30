@@ -12,4 +12,4 @@ You can sideload AltStore, or Scarlet and install the IPA for your selected app.
 
 
 # Where do these downloads come from?
-These downloads come from my home server & my VPS.
+These downloads come from my home server & my VPS if I can not find the Creator's hosted download link.
